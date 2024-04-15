@@ -29,6 +29,11 @@ intro
 			└── Choose Command Syntax or Function Syntax
 		├── Stop Execution
 		└── Write to a Diary File
+	├── Matrices and Arrays (ToDo)
+	├── Operators and Elementary Operations (ToDo)
+	└── Loops and Conditional Statements		
+		├── Conditional Statements
+		└── Loop Control Statements
 ├── Mathematics (https://www.mathworks.com/help/matlab/mathematics.html)
 	├── Elementary Math
 		├── Arithmetic Operations
@@ -49,7 +54,6 @@ intro
 		├── Systems of Linear Equations (unnecessary part)	
 		├── Eigenvalues (unnecessary part)	
 		├── Singular Values (unnecessary part)		
-		├── Factorizations (unnecessary part)		
 		├── Matrix Exponentials (unnecessary part)	
 		├── Determine Whether Matrix Is Symmetric Positive Definite (unnecessary part)	
 		└── LAPACK in MATLAB (unnecessary part)			
